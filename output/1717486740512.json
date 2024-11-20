@@ -1,0 +1,37 @@
+{
+    "image": "1717486740512.png",
+    "ports": [
+        {
+            "port_number": 1,
+            "status": "connected"
+        },
+        {
+            "port_number": 2,
+            "status": "connected"
+        },
+        {
+            "port_number": 3,
+            "status": "connected"
+        },
+        {
+            "port_number": 4,
+            "status": "connected"
+        },
+        {
+            "port_number": 5,
+            "status": "connected"
+        },
+        {
+            "port_number": 6,
+            "status": "connected"
+        },
+        {
+            "port_number": 7,
+            "status": "not connected"
+        },
+        {
+            "port_number": 8,
+            "status": "not connected"
+        }
+    ]
+}
